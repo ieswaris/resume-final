@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+p{
+    font-style: san-serif;
+    font-size: 17px;
+    color: black;
+}
+.section1,.section2{
+    text-align: left;
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#name
+{
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: san-serif;
+}
+#st
+{
+    font-size: 20px;
+}
